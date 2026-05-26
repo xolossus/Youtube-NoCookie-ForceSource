@@ -35,7 +35,7 @@ youtube-nocookie.com/watch
 
 1. Download and install [Tampermonkey](https://www.tampermonkey.net/).
 2. Click **Create a new script**.
-3. Paste the contents of `youtube-nocookie-force-quality.user.js` into the editor.
+3. Paste the contents of [`youtube-nocookie-force-quality.user.js`](https://github.com/xolossus/Youtube-NoCookie-ForceSource/blob/main/youtube-nocookie-force-quality.user.js) into the editor.
 4. Save and enable the script.
 5. Open a supported yout-ube or youtube-nocookie player page.
 
