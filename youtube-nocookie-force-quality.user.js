@@ -3,6 +3,7 @@
 // @namespace    yt-nocookie-quality
 // @version      1.1
 // @description  Prefer 1440p on yout-ube / youtube-nocookie embeds, fallback to 1080p
+// @author       xolossus
 // @match        *://www.yout-ube.com/*
 // @match        *://www.youtube-nocookie.com/embed/*
 // @match        *://www.youtube-nocookie.com/watch*
