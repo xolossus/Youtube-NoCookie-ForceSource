@@ -2,7 +2,7 @@
 
 A userscript for Tampermonkey that automatically requests and applies higher playback quality on **yout-ube.com** and **youtube-nocookie.com** players.
 
-It prefers **1440p** whenever available, automatically falls back to **1080p**, and is designed to complement the **YouTube → yout-ube Custom Player Overlay** scripts.
+It prefers **1440p** whenever available, automatically falls back to **1080p**, and is designed to complement the [**YouTube → yout-ube Custom Player Overlay**](https://github.com/xolossus/Youtube-Player-Override) scripts.
 
 ---
 
